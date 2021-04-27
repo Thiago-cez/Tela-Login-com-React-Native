@@ -1,0 +1,1 @@
+![enter image description here](https://github.com/Thiago-cez/Tela-Login-com-React-Native/blob/master/src/assets/WhatsApp%20Image%202021-04-27%20at%2011.13.59.jpeg?raw=true)
